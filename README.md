@@ -63,8 +63,8 @@ windows替换文件路径  `C:\Windows\System32\drivers\etc\hosts`
 * 客户端可用：<br />
 play市场，Google搜索，chrome，googleplus,google街景,google报亭,google环聊,google健身,google地图,googleallo,googleDuo,tumblr,twitter,facebook,instragram,duckduckgo,dropbox（等等）
 * 客户端不可用：<br />
-Gmail：<br />
-不可用原因：没有可用stmp服务器，并且gmail不支持通过简单代理使用。<br />
+谷歌时间轴：<br />
+不可用原因：中国区不支持该功能。<br />
 telegram：<br />
 不可用原因：telegram客户端使用ip地址方式直接连接服务器（并非域名），其所使用的ip地址在国内已被屏蔽。
 * 功能不可用：查找设备（安卓）【因为纯UDP流量过不了墙，所以无法使用】
